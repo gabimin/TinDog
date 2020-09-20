@@ -1,3 +1,6 @@
 # TinDog
 
-Tinder for Dogs
+Tinder for Dogs made for
+
+Angela Yu's Web Development Bootcamp
+
